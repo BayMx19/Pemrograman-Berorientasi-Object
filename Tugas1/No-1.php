@@ -11,9 +11,9 @@
 
 $i = $_POST["bilangan"];
 
-    $kata = "bilangan " . $i . " merupakan ";
+    $kata = "bilangan " . $i . " merupakan bilangan ";
     $kata .= ($i >= 0) ? "positif" : "negatif";
-    $kata .= " dan merupakan ";
+    $kata .= " dan merupakan bilangan ";
     $kata .= ($i % 2 ==0 ) ? "genap" : "ganjil";
     echo $kata. "<br>";
 ?>
