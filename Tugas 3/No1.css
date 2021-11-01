@@ -1,0 +1,12 @@
+body {
+    background-color: aliceblue;
+}
+
+.container {
+    width: 300px;
+    height: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 15px;
+    padding-left: 15px;
+    border-style: solid;
+}
