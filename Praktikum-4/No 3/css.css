@@ -1,0 +1,16 @@
+h2{
+    margin: auto;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.table{
+    margin: auto;
+    font-family: sans-serif;
+    border-collapse: collapse;
+}
+
+.table, td{
+    border: 1px solid;
+    padding: 8px 10px;
+}
