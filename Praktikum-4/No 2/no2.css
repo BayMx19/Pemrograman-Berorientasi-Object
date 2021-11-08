@@ -1,0 +1,7 @@
+.container {
+    margin: auto;
+    text-align: center;
+    width: 650px;
+    height: 150px;
+    border-style: groove;
+}
